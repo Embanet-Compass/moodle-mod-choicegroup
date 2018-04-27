@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-mod-choicegroup",
+    "type": "moodle-mod",
+    "description": "Activity Plugin",
+    "extra": {
+        "installer-name": "choicegroup",
+        "moodle": { "package_folder_name" : "choicegroup" }
+    }
